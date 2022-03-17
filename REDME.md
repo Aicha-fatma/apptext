@@ -1,2 +1,3 @@
-#ce mon applicatiom
-text
+# text sur github
+## my project
+c'est un projet text sur python
